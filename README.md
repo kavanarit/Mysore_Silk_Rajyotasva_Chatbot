@@ -66,6 +66,10 @@ This project merges **innovation with artistry**, showing how technology can pre
 1. **Clone the repository**  
    https://github.com/kavanarit/Mysore_Silk_Rajyotasva_Chatbot.git
 
+2.**Open your browser and visit :**
+https://ai.studio/apps/drive/16-rZ-LbviNNhej4FV2ZGaahXLTmBDcCk
+
+
 
 
 
