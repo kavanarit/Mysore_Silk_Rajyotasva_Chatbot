@@ -64,8 +64,7 @@ This project merges **innovation with artistry**, showing how technology can pre
 ## 🚀 How to Run the Project  
 
 1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/mysore-silk-chatbot-portal.git
+   https://github.com/kavanarit/Mysore_Silk_Rajyotasva_Chatbot.git
 
 
 
