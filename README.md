@@ -72,13 +72,17 @@ This project merges **innovation with artistry**, showing how technology can pre
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots  
 
-(You can add images of your app UI here)
+Below are some preview images of the **Mysore Silk Saree Chatbot Portal** 👇  
 
-(https://github.com/kavanarit/Mysore_Silk_Rajyotasva_Chatbot/blob/main/Screenshot%202025-11-01%20124358.png)
-![Chatbot Interaction Screenshot](./images/chatbot.png)
-![Silk Types Page Screenshot](./images/silk-types.png)
+![Gallery Page Screenshot](https://github.com/kavanarit/Mysore_Silk_Rajyotasva_Chatbot/blob/main/Screenshot%202025-11-01%20124358.png)  
+ 
+
+![Chatbot Interaction Screenshot](https://github.com/kavanarit/Mysore_Silk_Rajyotasva_Chatbot/blob/main/Screenshot%202025-11-01%20124443.png)  
+
+
+![Silk Types Page Screenshot](https://github.com/kavanarit/Mysore_Silk_Rajyotasva_Chatbot/blob/main/Screenshot%202025-11-01%20124552.png)  
 
 
 ---
