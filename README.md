@@ -76,7 +76,7 @@ This project merges **innovation with artistry**, showing how technology can pre
 
 (You can add images of your app UI here)
 
-![Gallery Page Screenshot](C:\Users\User\OneDrive\Pictures\Screenshots\Screenshot 2025-11-01 124358.png)
+(https://github.com/kavanarit/Mysore_Silk_Rajyotasva_Chatbot/blob/main/Screenshot%202025-11-01%20124358.png)
 ![Chatbot Interaction Screenshot](./images/chatbot.png)
 ![Silk Types Page Screenshot](./images/silk-types.png)
 
