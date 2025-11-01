@@ -66,41 +66,70 @@ This project merges **innovation with artistry**, showing how technology can pre
 1. **Clone the repository**  
    https://github.com/kavanarit/Mysore_Silk_Rajyotasva_Chatbot.git
 
+
 2.**Open your browser and visit :**
-https://ai.studio/apps/drive/16-rZ-LbviNNhej4FV2ZGaahXLTmBDcCk
+    https://ai.studio/apps/drive/16-rZ-LbviNNhej4FV2ZGaahXLTmBDcCk
+
+---
+
+## 📸 Screenshots
+
+(You can add images of your app UI here)
+
+![Gallery Page Screenshot](C:\Users\User\OneDrive\Pictures\Screenshots\Screenshot 2025-11-01 124358.png)
+![Chatbot Interaction Screenshot](./images/chatbot.png)
+![Silk Types Page Screenshot](./images/silk-types.png)
+
+
+---
+
+##🎉 Highlights
+
+-Creative fusion of AI + Tradition
+-Culturally themed UI design inspired by Mysore’s silk heritage
+-Seamless and responsive layout for all devices
+-Informative, interactive, and visually rich user experience
 
 
 
+---
+
+##❤️ Special Note
+
+**💛 Happy Kannada Rajyotsava! ❤️**
+  Celebrating the pride, art, and spirit of Karnataka — where tradition meets innovation! 🌾
 
 
+---
+
+##🤝 Contributing
+
+Contributions are welcome!
+  If you’d like to improve or enhance this project, feel free to fork the repository and create a pull request.
 
 
+---
+
+##📄 License
+
+This project is licensed under the MIT License.
+Feel free to use, modify, and distribute it with proper credit.
 
 
+---
+
+##👩‍💻 Author
+
+Kavana B
+💼 Intern at MindMatrix
+🔗 https://www.linkedin.com/posts/kavana-b-5949012b3_happy-kannada-rajyotsava-mysore-activity-7390251135682494464-b0bo?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEtrJgABZ3D8_awvT17jPSBo8Kw056vUmn4&utm_campaign=share_via
 
 
+---
 
+*💡 A creative fusion of AI and Tradition — bringing the beauty of Mysore Silk to the digital world! 🌺*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+----
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
